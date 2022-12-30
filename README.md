@@ -16,8 +16,7 @@ sh install.sh
 exit
 ```
 ### One command installation :octocat:
-```
-apt update && upgrade -y && apt install git -y && pkg install mpv figlet python && pip install lolcat && git clone https://github.com/Mohamed-khaalid && cd qurxin && chmod +x * && ./install.sh
+```apt update && topgrade -y && apt install git -y && pkg install mpv figlet python && pip install lolcat && git clone https://github.com/khaalid252/qurxin && cd qurxin && chmod +x * && ./install.sh
 ```
 ## screen shot
 
